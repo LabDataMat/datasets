@@ -8,5 +8,5 @@ The Soybean Nutrient Deficiency (SND) dataset was established by acquiring hyper
 ## 下载链接
 由于文件较大，已上传至百度网盘：
 
-- **链接**: [https://pan.baidu.com/s/1234567890abcdef]
-- **提取码**: [例如 1234]
+- **链接**: [通过网盘分享的文件：大豆数据集.zip
+链接: https://pan.baidu.com/s/1H31xp_DhgckMZWvQowut4w?pwd=1118 提取码: 1118]
